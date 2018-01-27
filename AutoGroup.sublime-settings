@@ -1,0 +1,9 @@
+// Define the group and the file extensions
+{
+	"ext-map": {
+		"0": ["html"],
+		"1": ["css"],
+		"2": ["js"],
+		"3": ["php"]
+	}
+}
