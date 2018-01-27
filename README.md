@@ -1,3 +1,4 @@
+
 AutoGroup
 ===================
 
@@ -39,6 +40,7 @@ Config
 File: AutoGroup.sublime-settings
 
 **Example:**
+
     {
         "ext-map": {
             "0": ["html"],
@@ -51,7 +53,6 @@ File: AutoGroup.sublime-settings
 
 Credits
 -------
-
 **Created by**
 
 Diego Marques
